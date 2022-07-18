@@ -19,6 +19,3 @@
         zmk,backlight = &backlight;
     };
 }:
-&left_encoder {
-    status = "okay";
-};
